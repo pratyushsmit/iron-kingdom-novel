@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img src="https://media.giphy.com/media/26AHthXkH02nBvAwo/giphy.gif" alt="Iron Kingdom Header" width="100%" height="250" style="object-fit: cover;">
   
   # ⚔️ The Iron Kingdom
   <h3>An Immersive Digital Novel Experience</h3>
@@ -62,6 +62,11 @@ Because this project utilizes browser-native rendering, there are zero build ste
    ```
 2. Open `index.html` in your favorite modern browser. That's it. 
 *(Alternatively, use right-click -> "Open with Live Server" in VS Code for hot-reloading).*
+
+---
+
+## 🔮 Future Scope: The Platform Vision
+> *"What you’re looking at with The Iron Kingdom isn't just a single story—it's a proof-of-concept for an entirely new **Interactive Storytelling Platform**. Think of it as the 'Netflix for Digital Novels'. Our vision is to evolve this architecture into a no-code Creator Dashboard. We want to empower indie authors and comic book artists to upload their manuscripts and instantly drag-and-drop these parallax backgrounds, 3D tilts, and particle physics directly into their stories without knowing a single line of JavaScript. We aren't just telling one story; we are building the canvas for the next generation of digital publishing."*
 
 ---
 <div align="center">
