@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHthXkH02nBvAwo/giphy.gif" alt="Iron Kingdom Header" width="100%" height="250" style="object-fit: cover;">
+  
   
   # ⚔️ The Iron Kingdom
   <h3>An Immersive Digital Novel Experience</h3>
